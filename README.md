@@ -12,6 +12,11 @@ L'application utilise l'API d'OpenAI (modèle GPT-4o-mini) pour analyser le text
 * **Interface Web :** Interface simple développée avec Streamlit pour coller le texte et visualiser le résultat.
 * **Déploiement conteneurisé :** Support complet pour Docker et Docker Compose.
 
+## Démonstration en ligne
+
+Une version de démonstration de l’application est accessible à l’adresse suivante :  
+**https://recette.alexeber.fr**
+
 ## Prérequis technique
 
 * Docker et Docker Compose (recommandé).
